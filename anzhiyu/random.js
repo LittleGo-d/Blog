@@ -1,0 +1,1 @@
+var posts=["2023/08/01/好剧推荐-一起同过窗/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
